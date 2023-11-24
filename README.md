@@ -1,2 +1,2 @@
 # dining_philosophers_problem
-Concurrent solution to the dining philosophers problem
+A concurrent solution to the dining philosopher's problem.
